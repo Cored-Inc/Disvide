@@ -111,4 +111,4 @@ For installing Disvide on Windows (8.1/10/11 preferably), it will be a bit more 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the `LICENSE <LICENSE>`_ file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

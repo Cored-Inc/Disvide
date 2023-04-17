@@ -79,12 +79,6 @@ def create_bot():
         },
         {
             'type': 'input',
-            'name': 'bot_username',
-            'message': 'Enter bot username:',
-            'validate': lambda val: val.strip() != ''
-        },
-        {
-            'type': 'input',
             'name': 'bot_token',
             'message': 'Enter bot token:',
             'validate': lambda val: val.strip() != ''
@@ -170,7 +164,6 @@ def create_bot():
     config_file = os.path.join(project_dir, 'config.json')
     with open(config_file, 'w') as f:
         f.write('{\n')
-        f.write(f'    "bot_username": "{answers["bot_username"]}",\n')
         f.write(f'    "bot_token": "{answers["bot_token"]}",\n')
         f.write(f'    "client_id": "{answers["client_id"]}",\n')
         f.write(f'    "client_secret": "{answers["client_secret"]}",\n')
