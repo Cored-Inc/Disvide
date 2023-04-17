@@ -61,7 +61,7 @@ To get started with Disvide, follow these steps:
 To generate a Discord bot with Disvide, follow these steps:
 
 1. Create a Discord bot account and obtain the bot token from the Discord Developer Portal.
-2. Run the program by executing `python bot_generator.py` in your terminal.
+2. Run the program by executing `disvide` or `python main.py` in your terminal.
 3. Answer the following questions to generate your bot:
    - What is the username of your bot?
    - What is the token of your bot?
