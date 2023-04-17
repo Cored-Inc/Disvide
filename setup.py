@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='disvide',
-    version='0.1',
+    version='0.2',
     license='MIT',
     author='Cored Developments',
     author_email='skyblockmohammed@gmail.com',
