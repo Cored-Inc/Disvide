@@ -73,9 +73,13 @@ project_dir = os.path.abspath(project_name)
 # Copy template files to project directory
 programming_language = answers['programming_language'].lower()
 if programming_language == 'typescript (ts)':
-    template_dir = '/home/mohammed/Documents/Fun/Disvide/templates/typescript'
+    # Get the templates folder for typescript for both windows and linux
+    template_dir = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), 'templates/typescript')
 else:
-    template_dir = '/home/mohammed/Documents/Fun/Disvide/templates/javascript'
+    # Get the templates folder for javascript for both windows and linux
+    template_dir = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), 'templates/javascript')
 
 if os.path.exists(template_dir):
     print(f"Copying files from {template_dir} to {project_dir}")
