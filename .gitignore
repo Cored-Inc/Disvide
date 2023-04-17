@@ -16,4 +16,4 @@ docs/crowdin.py
 *.mo
 /.coverage
 build/*
-new.sh
+*.sh
