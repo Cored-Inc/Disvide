@@ -5,4 +5,6 @@ setup.py
 disvide.egg-info/PKG-INFO
 disvide.egg-info/SOURCES.txt
 disvide.egg-info/dependency_links.txt
+disvide.egg-info/entry_points.txt
+disvide.egg-info/requires.txt
 disvide.egg-info/top_level.txt

@@ -62,6 +62,8 @@ Contributions to Disvide are welcome! If you would like to contribute, follow th
 
 ## Issues
 
+**We are aware that disvide might not work on windows always and we are working on fixing it.**
+
 If you encounter any issues while using Disvide, please report them on the [issues page](https://github.com/cored-developments-2023/disvide/issues). To create a new issue, follow these steps:
 
 1. Click on the "Issues" tab in the repository.
