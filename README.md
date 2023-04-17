@@ -75,9 +75,7 @@ The program will then generate a Discord bot for you.
 
 18/04/2023
 
-- Re-wrote templates for all languages respectively to support all the listed features above.
-- Made huge progress on the command generator part of disvide.
-- Other minor changes...
+- Removed all references of bot username as it's useless.
 
 ## 🤝 Contributing
 
