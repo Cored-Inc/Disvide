@@ -10,10 +10,10 @@ docs/crowdin.py
 *.mp3
 *.m4a
 *.wav
+*.sh
 *.png
 *.jpg
 *.flac
 *.mo
 /.coverage
 build/*
-*.sh
