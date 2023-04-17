@@ -1,10 +1,26 @@
 {
-  "compilerOptions": {
-    "target": "es6",
-    "module": "commonjs",
-    "outDir": "dist",
-    "strict": true,
-    "esModuleInterop": true
-  },
-  "include": ["*.ts"]
+	"version": "2.4.2",
+	"compilerOptions": {
+		"lib": ["es6"],
+		"esModuleInterop": true,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"moduleResolution": "node",
+		"noEmitOnError": false,
+		"noImplicitAny": false,
+		"noUnusedLocals": false,
+		/* Report errors on unused locals. */
+		"module": "CommonJS",
+		"noUnusedParameters": false,
+		"outDir": "./dist",
+		"rootDir": ".",
+		"removeComments": false,
+		"sourceMap": false,
+		"strict": false,
+		"target": "es6",
+		"skipLibCheck": true,
+		// Needed for config.json
+		"resolveJsonModule": true
+	},
+	"exclude": ["node_modules", "ignore"]
 }

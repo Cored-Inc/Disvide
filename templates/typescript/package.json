@@ -1,13 +1,14 @@
 {
-    "name": "my-discord-bot",
-    "version": "1.0.0",
-    "description": "A discord bot generated using Disvide",
-    "main": "./index.ts",
-    "dependencies": {
-      "discord.js": "^13.1.0"
-    },
-    "scripts": {
-        "build": "tsc -b",
-        "start": "node ./index.ts"
-    }
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot generated using Disvide",
+  "main": "./src/main.ts",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  },
+  "scripts": {
+    "build": "tsc -b",
+    "start": "ts-node ./src/main.ts",
+    "dev": "nodemon ./src/main.ts"
   }
+}

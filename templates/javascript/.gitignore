@@ -1,2 +1,7 @@
 node_modules
 config.json
+
+*-lock.yaml
+*-lock.json
+*.lockb
+*.lock
