@@ -5,7 +5,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='disvide',
-    version='0.4.2',
+    version='0.5.0',
     license='MIT',
     author='Cored Developments',
     author_email='skyblockmohammed@gmail.com',

@@ -65,6 +65,15 @@ To generate a Discord bot with Disvide, follow these steps:
 
 The program will then generate a Discord bot for you.
 
+Updates
+-------
+
+18/04/2023
+
+- Re-wrote templates for all languages respectively to support all the listed features above.
+- Made huge progress on the command generator part of disvide.
+- Other minor changes...
+
 Contributing
 ------------
 
