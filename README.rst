@@ -88,16 +88,24 @@ Contributions to Disvide are welcome! If you would like to contribute, follow th
 Issues
 ------
 
-.. code-block:: md
-
-   We are aware that Disvide might not work on Windows natively at the moment and that it works using WSL (only WSL 2 tested for now).
-
 If you encounter any issues while using Disvide, please report them on the `issues page <https://github.com/cored-developments-2023/disvide/issues>`_. To create a new issue, follow these steps:
 
 1. Click on the "Issues" tab in the repository.
 2. Click on the "New Issue" button.
 3. Provide a descriptive title and detailed description of the issue.
 4. Click on the "Submit new issue" button.
+
+Windows Installation
+--------------------
+
+For installing Disvide on Windows (8.1/10/11 preferably), it will be a bit more advanced due to Windows being as advanced as always. Here are the steps that you must follow to get access to Disvide on Windows:
+
+1. Clone this git repository by running `git clone https://github.com/Cored-Inc/Disvide`
+2. Go into the Disvide directory, run `pip install -r requirements.txt` to install the packages required
+3. Run `pip install --editable .`
+4. Enjoy using disvide by running `disvide` on the terminal.
+
+Ran into issues even after that? Create an issue using the above guide and we will try our best to help you out!
 
 License
 -------
