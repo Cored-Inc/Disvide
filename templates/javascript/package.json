@@ -1,0 +1,12 @@
+{
+    "name": "my-discord-bot",
+    "version": "1.0.0",
+    "description": "A discord bot generated using Disvide",
+    "main": "./index.js",
+    "dependencies": {
+      "discord.js": "^13.1.0"
+    },
+    "scripts": {
+      "start": "node ./index.js"
+    }
+  }

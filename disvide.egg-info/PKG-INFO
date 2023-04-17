@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: disvide
+Version: 0.1
+Summary: Disvide is a beginner-friendly Discord bot generator that allows you to create a bot by answering a few questions.
+Home-page: https://github.com/Cored-Inc/disvide
+Author: Cored Developments
+Author-email: skyblockmohammed@gmail.com
+License: MIT
+Keywords: discord bot generator beginner
+License-File: LICENSE

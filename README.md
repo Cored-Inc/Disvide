@@ -1,37 +1,37 @@
-# 🤖 Disvide
+# Disvide
 
-Disvide is a Discord bot generator that allows you to create a bot by answering a few questions. This project is created by [Cored, Inc](https://github.com/Cored-Inc) lead by [FSCYT](https://github.com/FSCYT).
+Disvide is a Discord bot generator that allows you to create a bot by answering a few questions. This project is created by Cored, Inc and led by FSCYT.
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before using Disvide, make sure you have the following:
 
-- Python 3.6 or higher installed on your system
-- `pip` package manager installed on your system
-- Discord account with access to the developer portal
+- Python 3.6 or higher installed on your system.
+- `pip` package manager installed on your system.
+- A Discord account with access to the developer portal.
 
 In addition, your system should meet the following requirements:
 
-- At least 2 GB of RAM
-- At least 1 GHz CPU
-- At least 100 MB of free storage space
+- At least 2 GB of RAM.
+- At least 1 GHz CPU.
+- At least 100 MB of free storage space.
 
-*Keep in mind that you can run this app with lower tier hardware, but shouldn't expect decent performance.*
+Please note that you can run this app with lower-tier hardware, but you may experience performance issues.
 
-## 📖 Contents
+## Contents
 
-- [🤖 Disvide](#-disvide)
-  - [📋 Prerequisites](#-prerequisites)
-  - [📖 Contents](#-contents)
-  - [🚀 Getting Started](#-getting-started)
-  - [📝 How to Use](#-how-to-use)
-  - [🤝 Contributing](#-contributing)
-  - [🐛 Issues](#-issues)
-  - [📄 License](#-license)
+- [Disvide](#disvide)
+  - [Prerequisites](#prerequisites)
+  - [Contents](#contents)
+  - [Getting Started](#getting-started)
+  - [How to Use](#how-to-use)
+  - [Contributing](#contributing)
+  - [Issues](#issues)
+  - [License](#license)
 
-## 🚀 Getting Started
+## Getting Started
 
-To get started with Disvide, please follow these steps:
+To get started with Disvide, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
@@ -46,13 +46,13 @@ To get started with Disvide, please follow these steps:
 
 The program will then generate a Discord bot for you.
 
-## 📝 How to Use
+## How to Use
 
-To use Disvide, please follow the instructions in the [Getting Started](#getting-started) section. Once you have generated your bot, you can customize it by editing the generated code.
+To use Disvide, follow the instructions in the [Getting Started](#getting-started) section. Once you have generated your bot, you can customize it by editing the generated code.
 
-## 🤝 Contributing
+## Contributing
 
-Contributions to Disvide are welcome! If you would like to contribute, please follow these steps:
+Contributions to Disvide are welcome! If you would like to contribute, follow these steps:
 
 1. Fork this repository.
 2. Create a new branch with your changes: `git checkout -b my-feature-branch`.
@@ -60,15 +60,15 @@ Contributions to Disvide are welcome! If you would like to contribute, please fo
 4. Push to the branch: `git push origin my-feature-branch`.
 5. Create a pull request.
 
-## 🐛 Issues
+## Issues
 
-If you encounter any issues while using Disvide, please report them on the [issues page](https://github.com/cored-developments-2023/disvide/issues). To create a new issue, please follow these steps:
+If you encounter any issues while using Disvide, please report them on the [issues page](https://github.com/cored-developments-2023/disvide/issues). To create a new issue, follow these steps:
 
 1. Click on the "Issues" tab in the repository.
 2. Click on the "New Issue" button.
 3. Provide a descriptive title and detailed description of the issue.
 4. Click on the "Submit new issue" button.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

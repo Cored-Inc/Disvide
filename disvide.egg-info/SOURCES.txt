@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+disvide.egg-info/PKG-INFO
+disvide.egg-info/SOURCES.txt
+disvide.egg-info/dependency_links.txt
+disvide.egg-info/top_level.txt
