@@ -98,6 +98,8 @@ If you encounter any issues while using Disvide, please report them on the [issu
 
 ## 💻 Windows Installation
 
+*(Skip this if WSL)*
+
 For installing Disvide on Windows (8.1/10/11 preferably), it will be a bit more advanced due to Windows being as advanced as always. Here are the steps that you must follow to get access to Disvide on Windows:
 
 1. Clone this git repository by running `git clone https://github.com/Cored-Inc/Disvide`
