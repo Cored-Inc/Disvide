@@ -3,7 +3,7 @@
 # Disvide 🔧
 
 [![PyPI version](https://badge.fury.io/py/disvide.svg)](https://badge.fury.io/py/disvide)
-[![Discord server](https://img.shields.io/discord/983326447970172978.svg?label=Discord&logo=Discord&colorB=7289DA&style=flat)](https://discord.gg/uqbxCTfxX9)
+[![Discord server](https://invidget.switchblade.xyz/uqbxCTfxX9)](https://discord.gg/uqbxCTfxX9)
 
 Disvide is a Discord bot generator that allows you to create a bot by answering a few questions. This project is created by Cored, Inc and led by FSCYT.
 
